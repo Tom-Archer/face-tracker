@@ -1,0 +1,1 @@
+Face Tracking based on code from [here](https://github.com/pimoroni/PanTiltFacetracker/blob/master/facetracker_lbp.py).
